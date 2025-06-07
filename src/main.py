@@ -2,7 +2,7 @@
 ===================================================
                     Astro Run
              A 2D space delivery game
-                                   by theFlyingHouse
+                                   by flying-house
 ====================================================
 """
 
